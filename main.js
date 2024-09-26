@@ -1,5 +1,5 @@
-zmienna1 = 1;
-zmienna2 = 2;
-zmienna3 = 3;
+let zmienna1 = 1;
+let zmienna2 = 2;
+let zmienna3 = 3;
 
-tablica = [zmienna1, zmienna2, zmienna3];
+let tablica = [zmienna1, zmienna2, zmienna3];
